@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test Anim</string>
+    <string name="title_activity_chart">ChartActivity</string>
+    <string name="title_activity_mp_chart">MpChartActivity</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+</resources>
