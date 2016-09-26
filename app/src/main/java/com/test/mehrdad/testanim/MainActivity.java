@@ -29,8 +29,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
-
         Button button2 =(Button) findViewById(R.id.buttonMp);
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
